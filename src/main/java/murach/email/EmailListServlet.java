@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import murach.business.User; 
 
 
-
+//SV
 public class EmailListServlet extends HttpServlet { 
     @Override 
     public void doPost(HttpServletRequest request, 
