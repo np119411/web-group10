@@ -1,0 +1,33 @@
+body {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+		'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 13pt;
+	margin-left: 2em;
+	margin-right: 2em;
+	background: lightblue;
+	margin-top: 3em;
+}
+
+h1 {
+	color: #03a9f4;
+}
+
+label {
+	float: left;
+	width: 6em;
+	margin-bottom: 0.5em;
+}
+
+input [type="text"], input [type="text"] {
+	width: 15em;
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+br {
+	clear: both;
+}
+
+#sumit {
+	margin-left: 0.5em;
+}
